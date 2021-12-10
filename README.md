@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <p align="center">
   <a href="https://github.com/joshsny/awesome-web3">
-    <img width="400" height="280" src="media/logo.svg" alt="Awesome">
+    <img width="400" height="280" src="media/awesome.svg" alt="Awesome">
   </a>
 
   <h3 align="center">Awesome Web3</h3>
